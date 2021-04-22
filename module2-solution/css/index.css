@@ -1,0 +1,83 @@
+header{
+  text-align: center;
+
+}
+header > h1 {
+  color:blue;
+  font-style: italic;
+  font-family: Rage Italic;
+  font-size: 50px;
+}
+header > hr {
+  color: red;
+  background-color: blue;
+  height: 5px;
+}
+header > hr > marquee{
+
+  scroll-behavior:left;
+  scroll-amount: 30px;
+}
+.container > .section1 {
+
+  width: 30%;
+  margin: 10px;
+  float: left;
+
+}
+.container > .section1 > h3 {
+  background-color: pink;
+  text-align: right;
+  font-style: bold;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid black;
+}
+.container > .section1 > p {
+  background-color: grey;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid black;
+}
+.container > .section2 {
+
+  width: 30%;
+  margin: 10px;
+  float: left;
+
+}
+.container > .section2 > h3 {
+  background-color: pink;
+  text-align: right;
+  font-style: bold;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid black;
+}
+.container > .section2 > p {
+  background-color: grey;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid black;
+}
+.container > .section3 {
+
+  width: 30%;
+  margin: 10px;
+  float: right;
+
+}
+.container > .section3 > h3 {
+  background-color: pink;
+  text-align: right;
+  font-style: bold;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid black;
+}
+.container > .section3 > p {
+  background-color: grey;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid black;
+}
